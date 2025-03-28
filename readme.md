@@ -1,5 +1,7 @@
 # 📚 Internet, Protocolos e Segurança de Sistemas da Informação
 
+### - Profª. Esp. Érika Arias Barrado
+
 **Turma de Desenvolvimento de Sistemas**  
 *ETEC Escola Técnica Estadual Antônio Devisate*  
 
@@ -49,4 +51,6 @@ Alunos de **Desenvolvimento de Sistemas - ETEC Antônio Devisate**, professores 
 ## 🔍 Recursos Adicionais
 
 - [Documentação Oficial do Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
+- Siga as instruções das atividades para configurar os laboratórios no Packet Tracer.
 
+- Consulte os materiais complementares (se disponíveis) para reforçar o aprendizado.
