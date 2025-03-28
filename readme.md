@@ -48,9 +48,10 @@ Alunos de **Desenvolvimento de Sistemas - ETEC Antônio Devisate**, professores 
    ```bash
    git clone https://github.com/ebarrado/INTERNET_PROTOCOLOS.git
 
+2. Siga as instruções das atividades para configurar os laboratórios no Packet Tracer.
+
+3. Consulte os materiais complementares (se disponíveis) para reforçar o aprendizado.
+
 ## 🔍 Recursos Adicionais
 
 - [Documentação Oficial do Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
-- Siga as instruções das atividades para configurar os laboratórios no Packet Tracer.
-
-- Consulte os materiais complementares (se disponíveis) para reforçar o aprendizado.
